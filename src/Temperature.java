@@ -466,7 +466,7 @@ public class Temperature {
 
         } else if (firstTempSystem == 9 && secondTempSystem == 8) {
 
-            secondValueDegree = (firstValueDegree * 1.904762) + 238.714286;
+            secondValueDegree = (firstValueDegree * 1.904762) + 238.7142865;
 
         }
 
